@@ -1,0 +1,9 @@
+pycache/
+*.py[cod]
+*$py.class
+
+cache/
+.cache/
+
+ranchi_routes.html
+algorithm_comparison.png
